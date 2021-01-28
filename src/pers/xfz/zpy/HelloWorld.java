@@ -7,7 +7,6 @@ package pers.xfz.zpy;
  */
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("hello pain");
-
+        System.out.println("Hello World pain.");
     }
 }
